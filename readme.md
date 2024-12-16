@@ -16,10 +16,10 @@ Notebad is a simple text editor built using C++ and OpenGL. It allows users (me)
 
 ### Keyboard Shortcuts
 
-- `Ctrl + S` : Save the current text.
-- `Ctrl + O` : Open a file to edit.
-- `Shift + &#8594;` : End of line.
-- `Shift + &#8592;` : Start of line.
+- ***Ctrl + S*** : Save the current text.
+- ***Ctrl + O*** : Open a file to edit.
+- ***Shift + &rarr;*** : End of line.
+- ***Shift + &larr;*** : Start of line.
 
 ### Usage
 
