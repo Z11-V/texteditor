@@ -12,15 +12,4 @@ Notebad is a simple text editor built using C++ and OpenGL. It allows users (me)
 - **Text Input**: Supports basic keyboard inputs (typing, backspace, etc.).
 - **File Management**: Open and save text files to and from your local filesystem.
 - **Cross-Platform**: Works on Windows, Linux and macOS.
-- **Simple UI**: Minimalist(bare bones) interface with basic controls for text editing.
-
-### Keyboard Shortcuts
-
-- ***Ctrl + S*** : Save the current text.
-- ***Ctrl + O*** : Open a file to edit.
-- ***Shift + &rarr;*** : End of line.
-- ***Shift + &larr;*** : Start of line.
-
-### Usage
-
-As this is primarily a learning project you are better off using anything else (like notepad).
+- **Simple UI**: Minimalist interface with basic controls for text editing.
